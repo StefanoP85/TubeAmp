@@ -34,10 +34,10 @@ TubeAmp: headphone amplifier based on a thermoionic valve, created by Dario Murg
 Pictures of the components.
 ![Components](Media/00%20-%20Components.jpg)
 
-PCB back: the red one is the prototype, the black one is the current version.
+PCB back.
 ![PCB back](Media/00%20-%20PCB%20Back.jpg)
 
-PCB front: the red one is the prototype, the black one is the current version.
+PCB front.
 ![PCB front](Media/00%20-%20PCB%20Front.jpg)
 
 PCB assembled.
